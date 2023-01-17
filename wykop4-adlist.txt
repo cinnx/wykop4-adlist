@@ -1,0 +1,8 @@
+[Adblock Plus 3.5] 
+ ! Title: Lista Filtrów Dla Wykop.pl v4.
+ ! Last modified: 18 January 2023 
+ ! Expires: 14 days 
+ ! Version: 20230118 
+ !1#-----------------------General advert blocking filters-----------------------!
+
+wykop.pl##.pub-slot-wrapper
